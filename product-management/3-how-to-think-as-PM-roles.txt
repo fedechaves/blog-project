@@ -1,0 +1,22 @@
+Internal PM
+    building tools and companies for people within company 
+    Great intro role to be
+    project management
+    less risk
+    small #users
+
+B2B PM
+    good itro roll
+    small users 
+    flexible and creative
+    priorities are sales
+    tight deadlines
+    responsible for products or features on one or very few platforms
+
+B2C PM 
+    dont mind uncertainty or pressure
+    multiple platforms
+    millions users
+    can lose company big risk big problems
+    extensive using testing 
+    iterate in agile way testing and customers feedback

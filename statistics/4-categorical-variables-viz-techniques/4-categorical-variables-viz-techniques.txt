@@ -1,0 +1,14 @@
+Categorical viz most used representations:
+
+1-frequency distribution tables
+    two columns
+        category and frequency - > example bmw  729 sold
+                                
+2-bar charts
+    we can use barchart using frequency (quanty car solds) in y axes and the category in x axis
+    
+3-pie charts
+    piechart using relative frequency (%)
+
+4-pareto (80-20 rule) diagrams
+    in the same diagram we can visualize pareto distribution with cumulative frequency (sum of relative frequencies)

@@ -1,0 +1,17 @@
+we need to know different types of data
+
+classification by
+    1. types of data
+        -categorical
+            *categories of groups: car brands,
+            *yes and no answers: are you from school x? no.
+        -numerical
+            *discrete: numbers of childrens, grades, money, number of objects.
+            *continuos: weight, swed, height, distance, time
+    2. measurement levels    
+        -qualitative: 
+            *nominal: categories,  car brands, summer, winter etc
+            *ordinal: have an order, 1-5 most likely
+        -quantitative: 
+            *ratio: has a true 0.. temperature kelvin.. relative
+            *interval: doesnt has a true 0, ie temperture celsius and farenheit, absolut

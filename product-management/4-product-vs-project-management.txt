@@ -1,0 +1,14 @@
+differences between product and project management
+
+product
+    success of a product
+    reach certain metrics
+    is up to them and their team to setup metrics and goals and how to achieve it.
+    needs project management
+
+project
+    acomplishing a project, requirements
+    important for rigid things -- build a building, manage weather conditions delays
+    doesn't need much creativity
+    necessary in situations like merging 2 companies.
+    ad-agency when execution stage

@@ -1,0 +1,10 @@
+three different types of product Manager roles: 
+    1- Internal product managers
+        stakeholders: is the objective..legal team, marketing, ceo etc. 
+        tasks: internal tools, working for people within the company. 
+    2-Consumer PMs
+        stakeholders: average consumer.
+        tasks: vision and creativity, metrics, talking testing users 
+    3- B2B PMs
+        stakeholders: clients are other companies.
+        tasks: salespeople in own companie, 

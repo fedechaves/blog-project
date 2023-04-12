@@ -1,0 +1,28 @@
+what is population 
+    collection of all items interest 
+    N
+    parameters
+
+    hard to define
+    hard to observe
+    //how to measure
+
+what is sample
+    a subset of population
+    n
+    statistics
+
+    less time consuming
+    less costly
+
+    Randomness
+        a random sample is collected when each member of the sample is chosen from the population strinctly by chance
+    representativeness
+        a representative sample is a subset of the population that accurately reflects the members of the entire population.
+
+        
+
+//examples of population and samples
+//how to get 
+//managing error
+//common mistakes
