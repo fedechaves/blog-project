@@ -1,0 +1,5 @@
+Starting with
+    1. frequency distribution table
+        group the numerical data into intervals -> how? generally we use intervals of 5 to 20
+                                                    formula: largest number - smaller number) /number of desired intervals
+                                                    relative frecuency = frecuency / total frequency
