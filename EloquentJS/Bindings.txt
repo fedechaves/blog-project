@@ -2,3 +2,5 @@ You should imagine bindings as tentacles, rather than boxes. They
 do not contain values; they grasp them—two bindings can refer to the
 same value. A program can access only the values that it still has
 a reference to.
+
+go deep into let var const
