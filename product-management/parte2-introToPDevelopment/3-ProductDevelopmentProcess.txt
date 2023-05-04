@@ -1,0 +1,24 @@
+Product Development process
+
+Conceive 
+    collect user problems, brainstorm solutions, identify insight of employees
+
+plan
+    market research, business case, customer interview, how long it may take, timeline
+
+Development
+    timelines, features, user stories, specs, estimations on details, develop, validation on early products-
+
+Iterate
+    MVP finished, early feedback, testing, Alpha Beta, A/B test
+
+Lauch
+    sell team, marketing team, legal team, PR, position product for public lunch, test reaction
+
+Steady State
+    collecting metrics, buying behaviour, try to maximize return, 
+
+Maintain or kill
+    decide how frequenly people are purchasing, is it profitable? it may not have anything to do with profit or users it may change the vision 
+    of the company, sunseting: kill the product slowly, tell the customers etc
+

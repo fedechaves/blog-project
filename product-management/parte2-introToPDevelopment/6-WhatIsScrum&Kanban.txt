@@ -1,0 +1,18 @@
+agile
+    scrum 
+        develop software in an agile way
+        4 mains
+            1-sprint planning meeting take most importants features from backlog to sprint - tickets
+            2-Using tickets of generally 2 weeks you put spring backlog in to progress and then done, at the end you have to done everything
+            3-standup meetings - all standing brief meetings talked about what they've worked, daily
+            4-Retrospective meetings - at the end of the sprint, 3 main things, what did well and what doesn't
+    kanban
+        develop software in an agile way - framework
+        bunch of column with cards 
+        key concepts
+            doesn't use srprint
+            no sprint backlog
+            doesn't prescribe any particular meeting 
+            only certain amount of items can be in progress is up to you to decide
+            often use by customer experience teams
+        

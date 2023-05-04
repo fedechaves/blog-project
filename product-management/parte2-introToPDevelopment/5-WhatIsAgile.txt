@@ -1,0 +1,6 @@
+Agile methodology
+
+way of applying lean mindset to software development 
+    group thing in small batches 
+    take the most important features and only do that before the whole applying
+
