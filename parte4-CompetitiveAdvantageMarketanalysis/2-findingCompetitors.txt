@@ -1,0 +1,51 @@
+feature triage
+    get more users
+    make users happy
+    enhance your brand
+
+find competitors as a product manager  
+
+1. capture: recording competitors we find (google sheet for example)
+    known 
+    unknown (for exmample)
+    Brand vs in google search bar to find competitors
+
+google.com how to search innit:
+channel the type of user
+    how they complain about the product
+        companies that are using that verbage
+        individual people complaining online
+        Google connects the dots 
+        pro tip: site: popular website | how to better search in google
+        reddit
+        quora
+
+    Describe what your product directors
+        companies that use literal descriptions
+        ads at the top of the search list
+        google's input
+    
+    play around with quotation marks
+
+    figure out how you'll pitch the product
+
+Direct, indirect and potential competitors and their impact
+    direct 
+        literal 
+    indirect solve the same problem in a different way
+        diferent target customers 
+        diferent sectors
+        greek restaurant that confuses with italian
+    potential something to the same target customers 
+        they dont address the same problem
+        they could add some chairs to the grocery italian ingredients.
+    substitute
+        the made your self instead of the pizza restaurant
+
+when you classified put 
+    direct, 
+    indirect, 
+    potential and 
+    substitutes.
+
+    go deeper into this.

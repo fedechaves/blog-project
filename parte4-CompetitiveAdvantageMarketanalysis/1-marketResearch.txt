@@ -1,0 +1,16 @@
+2 common approaches
+
+    top down
+        finding aprox market size and estimate how many users you can get.
+            100.000 iphone users ice cream conoissures -> 10% 10.000 users
+    bottom up
+        finding sales and then estimate a piece of that cake.
+            look at the sales for similar apps, if I can get 5% of their sales it'll be 50 users 
+
+tips and tools
+
+industry report/size for x
+
+compete.com -- see traffic of competitors
+
+google adwords 
