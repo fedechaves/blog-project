@@ -1,0 +1,17 @@
+table
+
+comparison charts
+
+                            competitors
+                                        comp 1    |  comp 2   | comp 3
+Features and factors-dimensions     |
+            price                   |    300            3044    444
+            easy of use             |   yes             yes      yes
+            reliability             |   10
+            feature x               |
+            hability to do y        |
+            aesthetics              |  4/10
+            Weight                  |   190g
+            4k                      |  yes 12fps
+            max fps                 |    60fps
+ 
