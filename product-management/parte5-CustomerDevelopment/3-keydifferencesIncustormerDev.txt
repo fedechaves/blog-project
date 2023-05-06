@@ -32,3 +32,67 @@ total
 
 post product use your database
 
+--- Finding interviewees externally -- 
+linkedin - search
+Forums - reddit quora facebook groups twitter
+your competitors
+
+--- Finding interviewees internally --
+avoid spam /cold emails
+1. use live company chat
+    passive approach see chatlogs to see wat customers are saying
+    active: pop up functionality to chat with site customers
+    ask customer service to contact you with the customer after the attendance
+2. company blog
+    people want to be heard seize that
+3. power users 
+    segment by frequency, high engagement 
+4. twitter  to talk to customers
+    who is liking retweting responding
+
+---How to get them to talk --- 
+cold emails
+    1. Be short; 4-7 sentences
+    2. Be personal, personalize emails 
+    3. be valuable having this conversation is valuable to them. most people are altruistic 
+        seize that and make them feel they're helping
+tips 
+    mention you're not from sales
+    make them feel special
+
+---how to run an interview---
+talk about their problems and their needs. not your solutions
+dont give your opinions ask questions, the point is to get offpoint
+create a comfortable environment
+dont react to negative feedback 
+dont force this conversations, guide it. dont force them to talk about something. 
+    that's interesting tell me more. 
+    why, what, when, who, where
+
+---good questions, bad questions---
+1 ask open ended questions. not a yes no questions
+2 dont ask binary questions 
+3 dont ask hypothetical questions
+4 dont ask leading questions
+5 dont ask questions that might make them lie
+
+
+---build user personas --- 
+ aggregates of observed user behaviours
+ group of certain users that behave in similar ways
+ interview large numbers of users
+ find a user behaviour 
+ give it a real name
+ give a description
+ give background info 
+
+ --- PM and the data diet ---
+ not make decisions out of nothing or single source
+
+ internal feedback
+ user test data
+ online feedback
+ analytics stats
+ news
+ market trends
+ watching competitors
