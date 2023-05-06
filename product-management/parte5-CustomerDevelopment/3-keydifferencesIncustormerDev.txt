@@ -19,12 +19,16 @@ chemistry professionals
 labs
 pharmacy
 
-
+pre-product
                      chemist         labs        drugstore
 
-size                lo              high        high
+size                4             8        high
 
-pain: time
-          high            low         high
+pain:payment          8            6         high
 
-accesibility
+accesibility       9            7          lo
+
+total
+
+post product use your database
+

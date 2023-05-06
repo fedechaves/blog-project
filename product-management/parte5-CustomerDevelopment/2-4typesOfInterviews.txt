@@ -1,0 +1,16 @@
+customers interviews
+
+1 Exploratory interview 
+    pain points, how do they feel, what are they exited about
+2 Validation interview
+    you have a hipothesis and you try to test it, validate it
+    hyper sensitive to biased
+3 satisfaction oriented interview
+    what is working and what is not, why?
+    what should we stop doing?
+4. efficiency interview
+    under what circunstance they use the product?
+    are they usin x feature? why? why not?
+    how easy is to use feature x?
+    how would you do this ___?
+    

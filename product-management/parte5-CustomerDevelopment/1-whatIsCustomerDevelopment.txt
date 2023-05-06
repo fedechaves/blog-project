@@ -4,4 +4,13 @@ have a structure
 
 communication fluidly with customers
 
-customer development steve blanky stanford
+customer development steve blanky stanford - 4 step to epiphanie
+
+1.Discovery
+2.validation
+    is it real problem or not? solve the problem?
+3.Creation
+    what features prioritize
+    iteration
+4.Building
+
