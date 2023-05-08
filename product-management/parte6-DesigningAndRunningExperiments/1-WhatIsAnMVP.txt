@@ -1,0 +1,118 @@
+MVP (the lean startup) smallest amount to develop and to get feedback. testing.
+    validated learning: not biased.
+    learning: not designed as an experiment
+
+
+--how do product mangers think about MVPs--
+
+resource risk tolerance
+
+offset by concern for brand + opportunity cost
+
+how big companies and startup manage risk and opportunity + trends -- go beyond with this
+
+--seven steps to running managers think about MVP--
+
+1 what is your product and solution to problem ideation
+
+2 identify assumptions (find the riskiest)
+    ideas are usually based on observations or intuition 
+    in order for my idea to be successful the following must be true...
+    common assumtions:
+        my customer has xyz problem
+        ___ matters to my customer
+        ____ will pay for it
+        no satisfactory substitutes
+    
+    real example:
+        zirks on demand vallet parking 
+        problem hard to park your car in big cities
+        solution using a mobile app for on demand vallet parking
+        what has to be true:
+            parking is hard in big cities
+            garage are inconvenients 
+            garages are expensives 
+            car parkers care about price, convience
+            car parkerts dont care about speed
+            people are not satisfied parking in a garage
+            enough drivers have smartphones
+            drivers can operate a smartphone while driving
+            people will want to be ondemans
+            people will reust valets parkers thier car
+        organize assumtions by risk:
+            methodology: riskiest first 
+            no satisfactory substitutes
+            will they pay for it - not riskiest
+            ___ matters to my customer
+            my customer has xyz problem - by far the riskiest
+        the risk / difficulty square
+
+            risk is it really important?
+
+                            difficulty to prove
+
+3 build hypothesis around them 
+    hypothesis: single written testable statement
+    hypothesis is actionable this is the difference between assumptions and hypothesis
+    part of hypothesis:
+        target group 
+        potential problem
+        action
+        expected outcome
+        example:
+            simple:
+                we believe subject/target will predicted question because reason
+            better:
+                if we "action(change color of button)", we believe "subject (customer)" will "predicted action/outcome (buy more)"
+                because "reason (it will see better)" 
+            the pm way: 
+                we believe "subject" has a "problem" because "reason". If we "action", this "metric" metric will improve
+
+        hypothesis for zirks_ 
+            we believe people have cars and are 30-50 years won't have problem letting their car to a valet because garages are to expensives
+            in LA
+
+    which are the most used tests? !!
+
+4 establish minimum criteria for success
+    gives clarity and meaning, 
+    how to make it: 
+        cost: developers time, labor wages, ads, legacy issues, opportunity costs, brand effect 
+        vs 
+        reward metrics like: increased revenew, time spent on page, #of shares, number of likes, convertion rate.
+    
+    formula for MCS: 
+        calculate reward vs cost
+
+    make the calculation for startups:
+        validations metrics. 
+
+    better lecture on this.
+5 pick up MVP strategy and type
+    how much you need to fakeit 
+    the most fake:
+        email MVP
+        shadow button mvp 
+        404 page
+        coming soon page
+    less scrapy:
+        explainers mvp - video tutorials video sales 
+        fake landing page / pitch experiment (gold standard)
+    others:
+        beta program - concierge mvp - assess the customer in the journey
+        piecemeal mvp - like groupon, make a functional website
+        wizard of oz mvp - front end looks functional but backend logic isn't yet built
+
+6 Execute, iterate, evaluate data
+
+    quantitative data: % of user, time spent on mvp
+    qualitative data: emotions 1-10 test
+    collect both type of data
+
+    do you make the feature and give the green light?
+
+    do you scrap the whole idea?
+
+    do you think you should re run the test but on a different hypothesis?
+
+7 
