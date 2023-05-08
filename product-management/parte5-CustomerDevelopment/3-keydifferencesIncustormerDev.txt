@@ -96,3 +96,7 @@ dont force this conversations, guide it. dont force them to talk about something
  news
  market trends
  watching competitors
+
+ vulnerabilities
+ 1 customers interviews dont scale
+ 2 the data is qualitative, you also need quantitative
