@@ -1,0 +1,36 @@
+Wireframing
+    visual guide for a website or mobile app.
+
+Wireframe, Mockup, Prototype
+    balsamiq ->tool
+    axure -> tool
+    hotgloo
+    people
+
+Mockup
+    visual -> how the webapp should look.
+    photoshop
+    figma
+    sketch
+    Illustrator
+
+propototype: with limit interaction
+    keynote
+    pop
+    axure
+    Envision
+    proto.io
+
+Jump into sketching
+    questions:
+        what is the point of this page?
+        
+        Users should be able to do:
+            function 1
+            function 2
+            function 3
+    go to dribble for inspiration.
+    function, not form
+
+sketching out a mobile app  
+    literal
