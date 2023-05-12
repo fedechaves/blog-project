@@ -1,0 +1,104 @@
+Metrics - KPI - define success.
+
+analize metrics by industries....
+
+the road to define metrics i find more interesting than the metric itself - what are the questions we need to ask?
+
+--metrics of all kind--
+big buckets
+
+    Growth and activation
+        how company is growing, users, active users, sales, profit,
+    engagement
+        how many times they like, tweets, minimum time spent to be engage., are they enjoying?
+    retention
+        retain users, actively using products, users that come back.
+    user happiness
+        net promoter scores, califications in appstore, google etc
+    revenue
+        moneeyy,, revenue, profit, LifeTimeValue, CostodAdquisitionCustomer, MonthlyRecurringRevenue
+
+--how to pick good metrics --
+facebook : be in facebook the most amount of time
+
+comments on facebook makes people stay more in the app.
+
+exploratory metrics (number of time a particular button is pressed) fata points that adds clues and are exploratory
+ vs reporting metrics
+
+what makes a good metric?
+    understandable simple, quantity, &
+    rate or ratio: active user vs total users
+    correlation: correlates each other and not a side effect of other thing 
+    changeable: you may change the frequency of metrics
++
+
+--metrics frameworks--
+
+HEART metric
+
+happiness  how happy your customer are?
+engagement  how engaged is your user in the short term
+Adoption how many interested users have actually tried your product?
+retention  how many users do you retain long term? 
+Task success how successful are tou at allowing users to perform the most valuable task?
+
+how is actually is taken in count fenomenology
+Adoption
+task success
+engagement
+retention
+happiness
+
+table
+
+                         goals                                  signals                                     metrics
+                    what do you what to happen                  what is the thing we need to measure?       a signal expressed over time. this is the thing you watch.
+    
+happiness           maximize drinker satisfaction               App store rating, NPS scores                app store rating, % of total ofNPS gave us perfect score
+                    with our spike lemonade and the                                                         
+                    delivery service
+
+engagement          maximize # of orders and total value            # order per costumer                        average order value of all customer per day
+                    of the orders (trhough add-ons like                 Order value                             and avg order users make per day
+                    additional shots in the lemonade or 
+                    extra fast delivery)
+
+Adoption            maximize the number of people who order        #of pople that buyed 1 glass of lemon         #people download and order %
+                    at least 1 glass of spiked lemonade            total amount that download and sign in     
+
+retention           Maximize the % of users that return             who order the lemonade and when they did        retantion rate %
+                    and place a repeat order on a Monthly
+                    basis
+
+task success     minimize # of abandoned carts(peps dont final buy) number of people that did not complete order        avg time to complete order
+                 maximize the # of users that succesfully             amount of time completing the order                people who iniate order vs abandoned ratio
+                complete an order within 5 minutes
+see the docs
+
+-- AARRR pirate method --
+Acquisition
+    users that went or download app
+activation
+    they are active now, do small thing to be active
+retention
+    make people that arent active to come back
+referral 
+    invite friends, make people share product
+Revenue 
+    revenue per user you're getting
+
+
+--tracking your metrics in practice --
+
+Google analytics
+
+Crazyegg 
+
+Kissmetrics
+
+mixpanel
+
+optimizely
+
+segment
