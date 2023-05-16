@@ -1,0 +1,66 @@
+ how the vision turns into product
+    initiatives
+        releases
+    epics 
+        a grouping of one or more features of functionalities we want build
+        a piece of work that requires more than 1 sprint
+
+into epics
+    have docs of what and why you're building it 
+        intro
+            what are you building, what metrics are you improving, what looks an ideal state
+        product requirements
+            features or functionalities, fast, label-data
+        design requirements
+            state the sketches, prototypes, 
+        engineering requirements
+            after discussing with tech dept, the tech we have to used, etc.
+
+-- users stories -- 
+    put the work into tech devs 
+    a way to desribe a thing that delivers some type of functionality to end user.
+    as an x i want to do y so that I can z
+
+    acceptance criteria: set of conditions that software must satisfy
+        given I am a user and I click the "add picture" button in the direct message, I am presented with a popup window
+        to choose the file I can upload, submit it with the upload button and see a preview of the uploaded image
+
+        given a Iam a user who has successfully  uploaded a photo from my computer, when I click send, the image is sent
+        to my friend through the direct message and it appears in the chat
+
+-- JIRA -- 
+    has backlog 
+    software it is
+
+-- estimations and velocity -- 
+    velocity: spring planning meating
+                ask how long is gonna take
+                storyPoints: 1-5 difficulty scale
+    after data gathered take an avg velocity for software development
+
+--Roadmapping -- 
+    typos of roadmapps
+    reasons: 
+        1- executives and investors like to see quater-based maps.
+        2- you could be against an actual deadline 
+            prioritize
+                near term mid term long term 3 bucket model
+        
+-- prioritizing --
+    user stories - epics - marketing campaigns - brand launches
+
+    Assumptions testing: remove risky assumptions
+        biggest assumptions
+            value score 1 -10
+            important score 1-10 
+                add them up to get a rank
+        the buck method:
+            substract the cost 1-10 rank
+            you get a final score
+        the moscow method: what we cannot leave and what we must
+            must 
+            could 
+            should 
+            would
+
+     
