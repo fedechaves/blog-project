@@ -54,13 +54,13 @@ into epics
             value score 1 -10
             important score 1-10 
                 add them up to get a rank
-        the buck method:
+        the buc method:
             substract the cost 1-10 rank
             you get a final score
         the moscow method: what we cannot leave and what we must
             must 
             could 
             should 
-            would
+            would 
 
      
