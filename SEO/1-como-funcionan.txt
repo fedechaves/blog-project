@@ -1,0 +1,21 @@
+
+
+como funcionan los motores de busqueda: 
+
+    rastreo 
+        navegacion sistematica por internet con spyders - google bot
+    indexacion
+        es el analisis y catalogacion del contenido rastreado
+    busqueda
+        busqueda del usuatio que desea satisfacer una necesidad de informacion
+
+
+como medir resultados de SEO:
+    google analytics: volumen de trafico, dispositivos, zonas geograficas
+    search console: plataforma para webmaster de google, rencimiento de nuetros resultados organicos
+
+Gestionando espectativas SEO
+    realistas
+    evitar tomar decisiones de forma impulsiva
+
+    
