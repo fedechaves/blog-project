@@ -18,4 +18,52 @@ Gestionando espectativas SEO
     realistas
     evitar tomar decisiones de forma impulsiva
 
+que es la investigacion de palabras clave   
+    identificar los terminos de busqueda que utilizan los usuarios
+    podemos tambien concoer el volumen de busqueda y competencia existente
+
+    puede ayudar a desarrollar nuevos productos o servicios
+
+    herramientas: planificador de palabras clave - google trends
+                    informacion de campañas de google ads
+
+como investigar palabras clave:
+    debemos ponernos en el lugar del cliente
+    1. lluvia de ideas
+    2. intencion de busqueda detras de cada palabra clave
+    3. evitar posicionarnos para busquedas de usuarions que no se encuentran interesados en lo que ofrecemos
+    4. google trends
+    5. terminos de busqueda de campañas de google ads.
+    6.las palabras clave con intencion de busqueda muy especigica se vonocven como long tail    
+    el proceso es exploratorio
+
+planificador de palabras clave
+    google ads tool
+
+google trends
+    otro tool de google 
+
+otras herramientas de investigacion de palabras clave
+    keyword explorer de moz
+    ubersuggest
+
+atributos de palabras clave
+    relevancia
+        la palabra clave ser precisa
+        comprender intenciones de busqueda de la palabra clave
+        ponernos en el lugar de nuestro p;úblico objetivo
+
+    volumen de busqueda
+        cantidad de veces que la palabra es utilizada 
+        podemos filtrar esta ingormacion por ubicacion geograficas
+        las palabra genericas poseeen mas volumen pero intencio ambigua
+        las especificas poseen menos volumen pero mas relevancia
+    competencia
+        no somos los unicos
+        podemos ver la cantidad de sultados del motor de busqueda
+        planificados de palabras indica nivel de competencia
+        buscar baja competencia pero muy relevante
+
+Distribucion de palabras clave (tabla)
+    paginas del sitio           palabra clave           url             title           descripcion     h1 
     
