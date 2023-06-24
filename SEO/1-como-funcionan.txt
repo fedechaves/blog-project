@@ -65,5 +65,5 @@ atributos de palabras clave
         buscar baja competencia pero muy relevante
 
 Distribucion de palabras clave (tabla)
-    paginas del sitio           palabra clave           url             title           descripcion     h1 
+    paginas del sitio           palabra clave           url             title    chars(60)       descripcion     h1 
     
