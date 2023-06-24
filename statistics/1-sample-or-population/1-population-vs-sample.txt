@@ -16,7 +16,7 @@ what is sample
     less costly
 
     Randomness
-        a random sample is collected when each member of the sample is chosen from the population strinctly by chance
+        a random sample is collected when each member of the sample is chosen from the population strictly by chance
     representativeness
         a representative sample is a subset of the population that accurately reflects the members of the entire population.
 
